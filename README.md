@@ -35,6 +35,10 @@ A estrutura HTML é organizada da seguinte forma:
 
 O projeto utiliza o framework Bootstrap para estilização, proporcionando uma aparência moderna e responsiva. A classe `bg-dark` é utilizada para um fundo escuro, enquanto o texto é exibido em branco.
 
+## Deploy
+
+- https://pesquisador-paises.vercel.app
+
 ## Lógica JavaScript
 
 A lógica do projeto é implementada em um arquivo JavaScript separado. As principais funções incluem:
