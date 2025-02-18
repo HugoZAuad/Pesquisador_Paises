@@ -35,10 +35,6 @@ A estrutura HTML é organizada da seguinte forma:
 
 O projeto utiliza o framework Bootstrap para estilização, proporcionando uma aparência moderna e responsiva. A classe `bg-dark` é utilizada para um fundo escuro, enquanto o texto é exibido em branco.
 
-## Deploy
-
-- https://pesquisador-paises.vercel.app
-
 ## Lógica JavaScript
 
 A lógica do projeto é implementada em um arquivo JavaScript separado. As principais funções incluem:
@@ -59,3 +55,7 @@ A lógica do projeto é implementada em um arquivo JavaScript separado. As princ
 ## Conclusão
 
 Este pesquisador de países é uma aplicação simples, mas eficaz, que demonstra como interagir com APIs e manipular o DOM para exibir informações dinâmicas. É uma boa base para quem deseja aprender mais sobre desenvolvimento web e consumo de APIs.
+
+## Deploy
+
+- https://pesquisador-paises.vercel.app
